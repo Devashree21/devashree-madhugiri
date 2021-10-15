@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics Vidhya on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/analytics-vidhya/</link>
+    <description>Recent content in Analytics Vidhya on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/analytics-vidhya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Data Visualization in Altair 📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</link>
+      <pubDate>Mon, 11 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</guid>
+      <description>There are various EDA libraries available in Python. Seaborn is one such popular library which caters to all the data visualization requirements in an EDA. In this blog post, I explore Data Visualization using another powerful library &amp;lsquo;Altair&amp;rsquo; and compare it with Seaborn library on a plot-by-plot basis.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>

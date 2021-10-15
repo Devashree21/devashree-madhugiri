@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/power-bi/</link>
+    <description>Recent content in Power BI on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Sep 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA challenge🏅</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-9/</link>
+      <pubDate>Sat, 25 Sep 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-9/</guid>
+      <description>I created this Dashboard viz for an EDA contest held on Youtube.  Read more about the contest viz here.</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Food Delivery Time⌚</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</link>
+      <pubDate>Thu, 16 Sep 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</guid>
+      <description>My contest entry- A Power BI Dashboard for a Food delivery time dataset with 11095 rows x 9 columns.  This Viz has been featured in the article by AnalyticsIndiaMag.</description>
+    </item>
+    
+  </channel>
+</rss>

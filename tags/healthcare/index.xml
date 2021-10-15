@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/healthcare/</link>
+    <description>Recent content in Healthcare on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stroke Prediction with Machine Learning</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-7/</link>
+      <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-7/</guid>
+      <description>In this article, I share the details of how I built &amp;amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
+This article has been published on Medium. Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>

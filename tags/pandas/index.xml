@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/pandas/</link>
+    <description>Recent content in Pandas on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Sep 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building an Interactive Dashboard using Bokeh and Pandas 📈</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-3/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-3/</guid>
+      <description>Dashboards are important to convey all the relevant information altogether. There are some interesting dashboarding libraries in Python. Bokeh is a powerful tool but the coding for visualization takes some effort for a newbie. Hence, in this blog post, I build a beginner-friendly dashboard step-by-step using &amp;lsquo;Bokeh-Pandas&amp;rsquo; - a Bokeh based tool with Front-end Pandas support.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>

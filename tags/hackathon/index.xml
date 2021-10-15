@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/hackathon/</link>
+    <description>Recent content in Hackathon on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Restaurant Food Delivery Time⌚</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</link>
+      <pubDate>Thu, 16 Sep 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</guid>
+      <description>My contest entry- A Power BI Dashboard for a Food delivery time dataset with 11095 rows x 9 columns.  This Viz has been featured in the article by AnalyticsIndiaMag.</description>
+    </item>
+    
+  </channel>
+</rss>

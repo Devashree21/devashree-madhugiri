@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello!👋 I am Devashree on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/</link>
+    <description>Recent content in Hello!👋 I am Devashree on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Data Visualization in Altair 📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</link>
+      <pubDate>Mon, 11 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</guid>
+      <description>There are various EDA libraries available in Python. Seaborn is one such popular library which caters to all the data visualization requirements in an EDA. In this blog post, I explore Data Visualization using another powerful library &amp;lsquo;Altair&amp;rsquo; and compare it with Seaborn library on a plot-by-plot basis.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>EDA challenge🏅</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-9/</link>
+      <pubDate>Sat, 25 Sep 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-9/</guid>
+      <description>I created this Dashboard viz for an EDA contest held on Youtube.  Read more about the contest viz here.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Machine Learning Models Better with Explainable AI 💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-2/</link>
+      <pubDate>Fri, 24 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-2/</guid>
+      <description>The inner workings of a Machine Learning model are challenging to understand. Explainable AI aims to create a transparency by explaining how the machine learning model arrived at the decision. There are few interesting Explainable AI libraries for Python that present these details within an interactive dashboard. In this blog article, I have explored the ExplainableDashboard library with a simple regression model. This article has been published on the &amp;lsquo;Towards Data Science&amp;rsquo; blog.</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Food Delivery Time⌚</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</link>
+      <pubDate>Thu, 16 Sep 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/</guid>
+      <description>My contest entry- A Power BI Dashboard for a Food delivery time dataset with 11095 rows x 9 columns.  This Viz has been featured in the article by AnalyticsIndiaMag.</description>
+    </item>
+    
+    <item>
+      <title>Building an Interactive Dashboard using Bokeh and Pandas 📈</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-3/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-3/</guid>
+      <description>Dashboards are important to convey all the relevant information altogether. There are some interesting dashboarding libraries in Python. Bokeh is a powerful tool but the coding for visualization takes some effort for a newbie. Hence, in this blog post, I build a beginner-friendly dashboard step-by-step using &amp;lsquo;Bokeh-Pandas&amp;rsquo; - a Bokeh based tool with Front-end Pandas support.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Personal Portfolio Website using Coding🎨💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/projects/chapter-7/</link>
+      <pubDate>Sun, 29 Aug 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/projects/chapter-7/</guid>
+      <description>This personal portfolio website is a sample of my html &amp;amp; css coding skills.
+ Hosted on GitHub. Demo here.</description>
+    </item>
+    
+    <item>
+      <title>Better EDA with 3 Easy Python Libraries for Any Beginner🔮✨</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-4/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-4/</guid>
+      <description>EDA is a time consuming process and requires some experience when it comes to presenting the insights from a given dataset. It is quite likely that any beginner would get overwhelmed with the existing array of Data Visualization libraries. Hence, AutoEDA is a good solution when you need a quick overview of the chosen dataset. In this blog post, I have shared a beginner-friendly tutorial of 3 important AutoEDA libraries - PandasProfiling, Sweetviz and AutoViz.</description>
+    </item>
+    
+    <item>
+      <title>Using CNN for Image Classification on CIFAR-10 Dataset</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-5/</link>
+      <pubDate>Thu, 05 Aug 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-5/</guid>
+      <description>Image classification has a wide range of applications in different industries. Neural Networks are a better choice for image based problems. In this blog article, I explore the CIFAR-10 dataset using CNN with a step-by-step tutorial. This dataset contains 6000 images and 10 labeled categories and is good starter dataset for Deep Learning.
+This article has been published on Medium. Read the full blog article here.</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction With PyCaret </title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</link>
+      <pubDate>Tue, 27 Jul 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</guid>
+      <description>AutoML libraries automate the process of machine learning. PyCaret is an open source Python library for AutoML. In this article, I explore this library using the Pima Indian Diabetes dataset with a detailed tutorial.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Stroke Prediction with Machine Learning</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-7/</link>
+      <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-7/</guid>
+      <description>In this article, I share the details of how I built &amp;amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
+This article has been published on Medium. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Heart Diseases with a Machine Learning model</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-8/</link>
+      <pubDate>Sun, 11 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-8/</guid>
+      <description>In this project, I build a machine learning model using different ML algorithms to predict whether the person is suffering from Heart Disease or not. The dataset used for this project is Heart Disease UCI from Kaggle.
+This article has been published on Medium. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/contact/</guid>
+      <description>   Platform URL     email: 📧 devashreesm@yahoo.com   LinkedIn: https://linkedin.com/in/devashree-madhugiri   Twitter: https://twitter.com/dev_subhash21   kaggle: https://www.kaggle.com/devsubhash   Medium: https://devashree-madhugiri.medium.com/   Analytics Vidhya: https://www.analyticsvidhya.com/blog/author/devashreesm/   GitHub: https://github.com/Devashree21     </description>
+    </item>
+    
+  </channel>
+</rss>

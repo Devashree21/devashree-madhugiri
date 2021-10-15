@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Aug 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using CNN for Image Classification on CIFAR-10 Dataset</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-5/</link>
+      <pubDate>Thu, 05 Aug 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-5/</guid>
+      <description>Image classification has a wide range of applications in different industries. Neural Networks are a better choice for image based problems. In this blog article, I explore the CIFAR-10 dataset using CNN with a step-by-step tutorial. This dataset contains 6000 images and 10 labeled categories and is good starter dataset for Deep Learning.
+This article has been published on Medium. Read the full blog article here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/python/</link>
+    <description>Recent content in Python on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Data Visualization in Altair 📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</link>
+      <pubDate>Mon, 11 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</guid>
+      <description>There are various EDA libraries available in Python. Seaborn is one such popular library which caters to all the data visualization requirements in an EDA. In this blog post, I explore Data Visualization using another powerful library &amp;lsquo;Altair&amp;rsquo; and compare it with Seaborn library on a plot-by-plot basis.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Machine Learning Models Better with Explainable AI 💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-2/</link>
+      <pubDate>Fri, 24 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-2/</guid>
+      <description>The inner workings of a Machine Learning model are challenging to understand. Explainable AI aims to create a transparency by explaining how the machine learning model arrived at the decision. There are few interesting Explainable AI libraries for Python that present these details within an interactive dashboard. In this blog article, I have explored the ExplainableDashboard library with a simple regression model. This article has been published on the &amp;lsquo;Towards Data Science&amp;rsquo; blog.</description>
+    </item>
+    
+    <item>
+      <title>Better EDA with 3 Easy Python Libraries for Any Beginner🔮✨</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-4/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-4/</guid>
+      <description>EDA is a time consuming process and requires some experience when it comes to presenting the insights from a given dataset. It is quite likely that any beginner would get overwhelmed with the existing array of Data Visualization libraries. Hence, AutoEDA is a good solution when you need a quick overview of the chosen dataset. In this blog post, I have shared a beginner-friendly tutorial of 3 important AutoEDA libraries - PandasProfiling, Sweetviz and AutoViz.</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction With PyCaret </title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</link>
+      <pubDate>Tue, 27 Jul 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</guid>
+      <description>AutoML libraries automate the process of machine learning. PyCaret is an open source Python library for AutoML. In this article, I explore this library using the Pima Indian Diabetes dataset with a detailed tutorial.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Heart Diseases with a Machine Learning model</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-8/</link>
+      <pubDate>Sun, 11 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-8/</guid>
+      <description>In this project, I build a machine learning model using different ML algorithms to predict whether the person is suffering from Heart Disease or not. The dataset used for this project is Heart Disease UCI from Kaggle.
+This article has been published on Medium. Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>
