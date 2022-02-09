@@ -4,10 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Stroke Prediction with Machine Learning | Devashree Madhugiri</title>
+    <title>🌳 How To Build A Treemap In 3 Ways Using Python 🌳 | Devashree Madhugiri</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="In this article, I share the details of how I built &amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
-This article has been published on Medium. Read the full article here.">
+    <meta name="description" content="Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases. Further, I present three different ways to build treemaps in Python using open-source libraries - Matplotlib, Seaborn&#43;Squarify, and Pygal.">
     <meta name="generator" content="Hugo 0.88.1" />
     
     
@@ -29,23 +28,20 @@ This article has been published on Medium. Read the full article here.">
 
     
     
-    <meta property="og:title" content="Stroke Prediction with Machine Learning" />
-<meta property="og:description" content="In this article, I share the details of how I built &amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
-This article has been published on Medium. Read the full article here." />
+    <meta property="og:title" content="🌳 How To Build A Treemap In 3 Ways Using Python 🌳" />
+<meta property="og:description" content="Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases. Further, I present three different ways to build treemaps in Python using open-source libraries - Matplotlib, Seaborn&#43;Squarify, and Pygal." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://devashree21.github.io/devashree-madhugiri/post/chapter-7/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2021-05-02T11:25:05-04:00" />
-<meta property="article:modified_time" content="2021-05-02T11:25:05-04:00" /><meta property="og:site_name" content="Devashree Madhugiri" />
+<meta property="og:url" content="https://devashree21.github.io/devashree-madhugiri/post/chapter-9/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2021-10-26T11:25:05-04:00" />
+<meta property="article:modified_time" content="2021-10-26T11:25:05-04:00" /><meta property="og:site_name" content="Devashree Madhugiri" />
 
-<meta itemprop="name" content="Stroke Prediction with Machine Learning">
-<meta itemprop="description" content="In this article, I share the details of how I built &amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
-This article has been published on Medium. Read the full article here."><meta itemprop="datePublished" content="2021-05-02T11:25:05-04:00" />
-<meta itemprop="dateModified" content="2021-05-02T11:25:05-04:00" />
-<meta itemprop="wordCount" content="72">
-<meta itemprop="keywords" content="Medium,Classification,Healthcare,Machine Learning," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Stroke Prediction with Machine Learning"/>
-<meta name="twitter:description" content="In this article, I share the details of how I built &amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the Stroke Prediction Dataset from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.
-This article has been published on Medium. Read the full article here."/>
+<meta itemprop="name" content="🌳 How To Build A Treemap In 3 Ways Using Python 🌳">
+<meta itemprop="description" content="Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases. Further, I present three different ways to build treemaps in Python using open-source libraries - Matplotlib, Seaborn&#43;Squarify, and Pygal."><meta itemprop="datePublished" content="2021-10-26T11:25:05-04:00" />
+<meta itemprop="dateModified" content="2021-10-26T11:25:05-04:00" />
+<meta itemprop="wordCount" content="89">
+<meta itemprop="keywords" content="EDA,Python,Data Visualization,Analytics Vidhya," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="🌳 How To Build A Treemap In 3 Ways Using Python 🌳"/>
+<meta name="twitter:description" content="Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases. Further, I present three different ways to build treemaps in Python using open-source libraries - Matplotlib, Seaborn&#43;Squarify, and Pygal."/>
 
 	
   </head>
@@ -58,7 +54,7 @@ This article has been published on Medium. Read the full article here."/>
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://devashree21.github.io/devashree-madhugiri/images/b7.jpg');">
+  <header class="cover bg-top" style="background-image: url('https://devashree21.github.io/devashree-madhugiri/images/b9.png');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -159,7 +155,7 @@ This article has been published on Medium. Read the full article here."/>
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Stroke Prediction with Machine Learning</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">🌳 How To Build A Treemap In 3 Ways Using Python 🌳</h1>
           
         
       </div>
@@ -185,20 +181,20 @@ This article has been published on Medium. Read the full article here."/>
   <div id="sharing" class="mt3">
 
     
-    <a href="https://www.facebook.com/sharer.php?u=https://devashree21.github.io/post/chapter-7/" class="facebook no-underline" aria-label="share on Facebook">
+    <a href="https://www.facebook.com/sharer.php?u=https://devashree21.github.io/post/chapter-9/" class="facebook no-underline" aria-label="share on Facebook">
       <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
 
     </a>
 
     
     
-    <a href="https://twitter.com/share?url=https://devashree21.github.io/post/chapter-7/&amp;text=Stroke%20Prediction%20with%20Machine%20Learning" class="twitter no-underline" aria-label="share on Twitter">
+    <a href="https://twitter.com/share?url=https://devashree21.github.io/post/chapter-9/&amp;text=%f0%9f%8c%b3%20How%20To%20Build%20A%20Treemap%20In%203%20Ways%20Using%20Python%20%f0%9f%8c%b3" class="twitter no-underline" aria-label="share on Twitter">
       <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
 
     </a>
 
     
-    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://devashree21.github.io/post/chapter-7/&amp;title=Stroke%20Prediction%20with%20Machine%20Learning" class="linkedin no-underline" aria-label="share on LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://devashree21.github.io/post/chapter-9/&amp;title=%f0%9f%8c%b3%20How%20To%20Build%20A%20Treemap%20In%203%20Ways%20Using%20Python%20%f0%9f%8c%b3" class="linkedin no-underline" aria-label="share on LinkedIn">
       <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
 </svg>
@@ -207,7 +203,7 @@ This article has been published on Medium. Read the full article here."/>
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Stroke Prediction with Machine Learning</h1>
+      <h1 class="f1 athelas mt3 mb1">🌳 How To Build A Treemap In 3 Ways Using Python 🌳</h1>
       
       <p class="tracked">
           By <strong>
@@ -219,33 +215,34 @@ This article has been published on Medium. Read the full article here."/>
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-05-02T11:25:05-04:00">May 2, 2021</time>
+      <time class="f6 mv4 dib tracked" datetime="2021-10-26T11:25:05-04:00">October 26, 2021</time>
       
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><figure><img src="https://devashree21.github.io/devashree-madhugiri/images/b7.jpg"/>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><figure><img src="https://devashree21.github.io/devashree-madhugiri/images/b9.png"/>
 </figure>
 
-<p>In this article, I share the details of how I built &amp; evaluated a machine learning model for predicting stroke. The dataset used for this project is the <strong>Stroke Prediction Dataset</strong> from Kaggle and the model built predicts whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status.</p>
-<p>This article has been published on Medium. Read the full article <a href="https://devashree-madhugiri.medium.com/stroke-prediction-with-machine-learning-c8e17da04cd3">here</a>.</p>
+Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases.
+Further, I present three different ways to build treemaps in Python using open-source libraries - <strong>Matplotlib, Seaborn+Squarify, and Pygal</strong>.</p>
+<p>This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article <a href="https://www.analyticsvidhya.com/blog/2021/10/how-to-build-a-treemap-in-3-ways-using-python/">here</a>.</p>
 <ul class="pa0">
   
    <li class="list">
-     <a href="https://devashree21.github.io/devashree-madhugiri/tags/medium" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Medium</a>
+     <a href="https://devashree21.github.io/devashree-madhugiri/tags/eda" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">EDA</a>
    </li>
   
    <li class="list">
-     <a href="https://devashree21.github.io/devashree-madhugiri/tags/classification" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Classification</a>
+     <a href="https://devashree21.github.io/devashree-madhugiri/tags/python" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Python</a>
    </li>
   
    <li class="list">
-     <a href="https://devashree21.github.io/devashree-madhugiri/tags/healthcare" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Healthcare</a>
+     <a href="https://devashree21.github.io/devashree-madhugiri/tags/data-visualization" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Data Visualization</a>
    </li>
   
    <li class="list">
-     <a href="https://devashree21.github.io/devashree-madhugiri/tags/machine-learning" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Machine Learning</a>
+     <a href="https://devashree21.github.io/devashree-madhugiri/tags/analytics-vidhya" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Analytics Vidhya</a>
    </li>
   
 </ul>
@@ -264,6 +261,34 @@ This article has been published on Medium. Read the full article here."/>
     <p class="f5 b mb3">Related</p>
     <ul class="pa0 list">
 	   
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-1/">Exploring Data Visualization in Altair 📊</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-4/">Better EDA with 3 Easy Python Libraries for Any Beginner🔮✨</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/projects/chapter-9/">EDA challenge🏅</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-2/">Understanding Machine Learning Models Better with Explainable AI 💻</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/projects/chapter-8/">Restaurant Food Delivery Time⌚</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-3/">Building an Interactive Dashboard using Bokeh and Pandas 📈</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-6/">Diabetes Prediction With PyCaret 🔍</a>
+        </li>
+	    
 	     <li  class="mb2">
           <a href="https://devashree21.github.io/devashree-madhugiri/post/chapter-8/">Predicting Heart Diseases with a Machine Learning model</a>
         </li>
