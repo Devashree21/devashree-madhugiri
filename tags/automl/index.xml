@@ -6,9 +6,27 @@
     <description>Recent content in AutoML on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/automl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diabetes Prediction With PyCaret </title>
+      <title>Auto-Sklearn: Accelerate your machine learning models with AutoML 🤖</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</link>
+      <pubDate>Wed, 02 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</guid>
+      <description>AutoML automates the process of machine learning for challenging real-world problems. Multiple AutoML tools are available for building better machine learning models. These tools allow building of complex machine learning models with just a few lines of code.In this article, I explore AutoML library &amp;ldquo;Auto-Sklearn&amp;rdquo; for its model building and algorithm selection capabilities with classification and regression examples. Auto-Sklearn library is based on the popular sklearn library for machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Beginner’s Guide to AutoML with an Easy AutoGluon Example ⚙️📋</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-10/</link>
+      <pubDate>Sun, 31 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-10/</guid>
+      <description>Most of the Machine Learning processes like data cleaning, formatting and organization, algorithm selection, model building and optimization, etc. are quite tedious and time consuming. Automating such processes allows data scientists more time to focus on interpreting the results and improving the models to solve real-world issues. This automation of ML processes is achieved by the use of AutoML tools. Through this blog, I share information on several AutoML tools available and explore one of the tools &amp;ldquo;AutoGluon&amp;rdquo; for classification and regression examples.</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction With PyCaret 🔍</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</link>
       <pubDate>Tue, 27 Jul 2021 11:25:05 -0400</pubDate>
       

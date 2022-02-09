@@ -6,7 +6,16 @@
     <description>Recent content in Classification on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Aug 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auto-Sklearn: Accelerate your machine learning models with AutoML 🤖</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</link>
+      <pubDate>Wed, 02 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</guid>
+      <description>AutoML automates the process of machine learning for challenging real-world problems. Multiple AutoML tools are available for building better machine learning models. These tools allow building of complex machine learning models with just a few lines of code.In this article, I explore AutoML library &amp;ldquo;Auto-Sklearn&amp;rdquo; for its model building and algorithm selection capabilities with classification and regression examples. Auto-Sklearn library is based on the popular sklearn library for machine learning.</description>
+    </item>
+    
     <item>
       <title>Using CNN for Image Classification on CIFAR-10 Dataset</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-5/</link>
@@ -18,7 +27,7 @@ This article has been published on Medium. Read the full blog article here.</des
     </item>
     
     <item>
-      <title>Diabetes Prediction With PyCaret </title>
+      <title>Diabetes Prediction With PyCaret 🔍</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</link>
       <pubDate>Tue, 27 Jul 2021 11:25:05 -0400</pubDate>
       

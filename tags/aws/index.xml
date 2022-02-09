@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/aws/</link>
+    <description>Recent content in AWS on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Cloud Computing for Machine Learning Beginners ☁️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-12/</link>
+      <pubDate>Mon, 10 Jan 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-12/</guid>
+      <description>Big data handling is a challenge with standard hardware when we work on machine learning or deep learning models. To address this issue, we can avail the benefits of cloud computing. There are different cloud services available for data science and machine learning. This comprehensive guide covers the basics of cloud computing for machine learning. It also provides information on selection of a suitable cloud services provider for building machine learning models.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyScrappy on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/pyscrappy/</link>
+    <description>Recent content in PyScrappy on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/pyscrappy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web scraping with PyScrappy 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-14/</link>
+      <pubDate>Thu, 03 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-14/</guid>
+      <description>Finding good datasets for practice are challenging to find. Although, there are several types of datasets available online, but it is exciting to build a dataset using the web scraping technique. For this, one needs to have some experience in writing scraping code. However, there are some libraries which allow the users to scrape the required data from different websites with minimal code and no expertise. In this article, I explore one such web scraping library called &amp;ldquo;PyScrappy&amp;rdquo; and few of its different web scraping modules.</description>
+    </item>
+    
+  </channel>
+</rss>
