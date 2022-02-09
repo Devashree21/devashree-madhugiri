@@ -6,7 +6,61 @@
     <description>Recent content in Hello!👋 I am Devashree on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web scraping with PyScrappy 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-14/</link>
+      <pubDate>Thu, 03 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-14/</guid>
+      <description>Finding good datasets for practice are challenging to find. Although, there are several types of datasets available online, but it is exciting to build a dataset using the web scraping technique. For this, one needs to have some experience in writing scraping code. However, there are some libraries which allow the users to scrape the required data from different websites with minimal code and no expertise. In this article, I explore one such web scraping library called &amp;ldquo;PyScrappy&amp;rdquo; and few of its different web scraping modules.</description>
+    </item>
+    
+    <item>
+      <title>Auto-Sklearn: Accelerate your machine learning models with AutoML 🤖</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</link>
+      <pubDate>Wed, 02 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-13/</guid>
+      <description>AutoML automates the process of machine learning for challenging real-world problems. Multiple AutoML tools are available for building better machine learning models. These tools allow building of complex machine learning models with just a few lines of code.In this article, I explore AutoML library &amp;ldquo;Auto-Sklearn&amp;rdquo; for its model building and algorithm selection capabilities with classification and regression examples. Auto-Sklearn library is based on the popular sklearn library for machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Cloud Computing for Machine Learning Beginners ☁️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-12/</link>
+      <pubDate>Mon, 10 Jan 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-12/</guid>
+      <description>Big data handling is a challenge with standard hardware when we work on machine learning or deep learning models. To address this issue, we can avail the benefits of cloud computing. There are different cloud services available for data science and machine learning. This comprehensive guide covers the basics of cloud computing for machine learning. It also provides information on selection of a suitable cloud services provider for building machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Python To Analyse Fitness Tracker Market: Step By Step EDA 📈📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-11/</link>
+      <pubDate>Wed, 10 Nov 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-11/</guid>
+      <description>Fitness wearables are a trend today. With various players in the market offering trackers and smartwatches for the fitness concious individuals, it is interesting to explore the wide array of products in this market based on their features, prices, reviews and ratings.In this project, we analyze the fitness trackers&#39; market in India using Python. First we scrape the required data and later visualize it to generate interesting insights about the current situation of the market.</description>
+    </item>
+    
+    <item>
+      <title>Beginner’s Guide to AutoML with an Easy AutoGluon Example ⚙️📋</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-10/</link>
+      <pubDate>Sun, 31 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-10/</guid>
+      <description>Most of the Machine Learning processes like data cleaning, formatting and organization, algorithm selection, model building and optimization, etc. are quite tedious and time consuming. Automating such processes allows data scientists more time to focus on interpreting the results and improving the models to solve real-world issues. This automation of ML processes is achieved by the use of AutoML tools. Through this blog, I share information on several AutoML tools available and explore one of the tools &amp;ldquo;AutoGluon&amp;rdquo; for classification and regression examples.</description>
+    </item>
+    
+    <item>
+      <title>🌳 How To Build A Treemap In 3 Ways Using Python 🌳</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-9/</link>
+      <pubDate>Tue, 26 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-9/</guid>
+      <description>Data visualizations enable us to display vital information in a dataset. With several categories, displaying information for comparison becomes a challenging task with regular bar charts. In such case, using Treemap is a convenient way to visualize nested hierarchical data.In this article, I share the basics of treemaps with their use cases. Further, I present three different ways to build treemaps in Python using open-source libraries - Matplotlib, Seaborn+Squarify, and Pygal.</description>
+    </item>
+    
     <item>
       <title>Exploring Data Visualization in Altair 📊</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-1/</link>
@@ -84,7 +138,7 @@ This article has been published on Medium. Read the full blog article here.</des
     </item>
     
     <item>
-      <title>Diabetes Prediction With PyCaret </title>
+      <title>Diabetes Prediction With PyCaret 🔍</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-6/</link>
       <pubDate>Tue, 27 Jul 2021 11:25:05 -0400</pubDate>
       
