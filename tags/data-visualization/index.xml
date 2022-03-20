@@ -6,7 +6,27 @@
     <description>Recent content in Data Visualization on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Deep Learning Models with Visualkeras 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-17/</link>
+      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-17/</guid>
+      <description>Deep Neural Networks consists of multiple hidden layers. Although it is possible to visualize the structure of the deep learning model in Keras as a flowchart, there are some Python libraries which allow graphical representation of the neural networks for presentation purposes. In this article, I explore one such visualizaion library called &amp;ldquo;Visualkeras&amp;rdquo; for plotting the structure of neural networks.
+This article has been published as a part of Blogathon on Analytics Vidhya.</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Guide on ggplot2 in R 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-16/</link>
+      <pubDate>Mon, 07 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-16/</guid>
+      <description>ggplot2 is a popular data visualization library in R. In this guide, I explore the data visualization capabilities of ggplot2 and share code for plotting a few charts.
+This guide has been published as a part of Blogathon on Analytics Vidhya has won the prize for &amp;ldquo;top 3 Guides&amp;rdquo; (Editor&amp;rsquo;s choice). Read the full article here.</description>
+    </item>
+    
     <item>
       <title>How To Use Python To Analyse Fitness Tracker Market: Step By Step EDA 📈📊</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-11/</link>

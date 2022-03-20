@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/guide/</link>
+    <description>Recent content in Guide on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Comprehensive Guide on ggplot2 in R 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-16/</link>
+      <pubDate>Mon, 07 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-16/</guid>
+      <description>ggplot2 is a popular data visualization library in R. In this guide, I explore the data visualization capabilities of ggplot2 and share code for plotting a few charts.
+This guide has been published as a part of Blogathon on Analytics Vidhya has won the prize for &amp;ldquo;top 3 Guides&amp;rdquo; (Editor&amp;rsquo;s choice). Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>
