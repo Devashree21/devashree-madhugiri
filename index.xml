@@ -6,7 +6,36 @@
     <description>Recent content in Hello!👋 I am Devashree on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Comprehensive Guide to Sharding in Data Engineering for Beginners 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-20/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-20/</guid>
+      <description>Data sharding is an important concept in big data. With the increasing use of IT technologies, the amount of data generated is overwhelming. Data-driven decision-making has become popular in the recent past as companies tend to leverage the information hidden in big data to drive business decisions. However, this data cannot be stored entirely in a single database. To efficiently handle such a vast data, sharding is required. In this guide, I share the basics of sharding, its various facets and need for sharding along with its pros and cons.</description>
+    </item>
+    
+    <item>
+      <title>Image Augmentation Using 3 Python Libraries✨🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</guid>
+      <description>Image Augmentation helps to create additional data from the existing dataset. CNNs can be trained better with additional data for image classification tasks. There are several open-source Python packages for image data augmentation. In this article, I explore some commonly used image augmentation techniques using 3 Python libraries - Imgaug, Albumentations and Solt.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Let’s Understand Data Augmentation Using AugLy!🖼️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-18/</link>
+      <pubDate>Tue, 22 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-18/</guid>
+      <description>Data Augmentation allows to extend the existing actual data. Deep Learning models can benefit from this process. Image, Audio, Video and Text formats can be augmented using open-source Python libraries. In this article, I share different image augmentation techniques using AugLy, an augmentation library from Facebook.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
     <item>
       <title>Visualizing Deep Learning Models with Visualkeras 🖥️</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-17/</link>
