@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineering on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/</link>
+    <description>Recent content in Data Engineering on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Comprehensive Guide to Sharding in Data Engineering for Beginners 🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-20/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-20/</guid>
+      <description>Data sharding is an important concept in big data. With the increasing use of IT technologies, the amount of data generated is overwhelming. Data-driven decision-making has become popular in the recent past as companies tend to leverage the information hidden in big data to drive business decisions. However, this data cannot be stored entirely in a single database. To efficiently handle such a vast data, sharding is required. In this guide, I share the basics of sharding, its various facets and need for sharding along with its pros and cons.</description>
+    </item>
+    
+  </channel>
+</rss>

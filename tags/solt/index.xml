@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solt on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/solt/</link>
+    <description>Recent content in Solt on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/solt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Augmentation Using 3 Python Libraries✨🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</guid>
+      <description>Image Augmentation helps to create additional data from the existing dataset. CNNs can be trained better with additional data for image classification tasks. There are several open-source Python packages for image data augmentation. In this article, I explore some commonly used image augmentation techniques using 3 Python libraries - Imgaug, Albumentations and Solt.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+  </channel>
+</rss>

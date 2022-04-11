@@ -6,40 +6,130 @@
     <description>Recent content in Tags on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Visualization</title>
-      <link>https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/</link>
-      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      <title>Albumentations</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/albumentations/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/</guid>
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/albumentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
       <link>https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/</link>
-      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
       
       <guid>https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Image Augmentation</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/image-augmentation/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/image-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imgaug</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/imgaug/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/imgaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/mongodb/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neural Networks</title>
       <link>https://devashree21.github.io/devashree-madhugiri/tags/neural-networks/</link>
-      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
       
       <guid>https://devashree21.github.io/devashree-madhugiri/tags/neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>NoSQL</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/nosql/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioning</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/partitioning/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/partitioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://devashree21.github.io/devashree-madhugiri/tags/python/</link>
-      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
       
       <guid>https://devashree21.github.io/devashree-madhugiri/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharding</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/sharding/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/sharding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solt</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/solt/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/solt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AugLy</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/augly/</link>
+      <pubDate>Tue, 22 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/augly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/</link>
+      <pubDate>Tue, 08 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/tags/data-visualization/</guid>
       <description></description>
     </item>
     
