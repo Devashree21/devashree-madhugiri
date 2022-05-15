@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AutoKeras on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/autokeras/</link>
+    <description>Recent content in AutoKeras on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/autokeras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification and Regression using AutoKeras 🤖️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</link>
+      <pubDate>Fri, 13 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</guid>
+      <description>AutoML assist in automating all time consuming tasks in machine learning projects. Tasks like setting up the model, data preprocessing, pipeline creation and more can be automated with minimal amount of code. There are several AutoML tools available which aim to speed up the ML processes. In this article, I share a tutorial on classification and regression task using an AutoML tool &amp;lsquo;AutoKeras&amp;rsquo;.
+This guide has been published as a part of Blogathon on Analytics Vidhya.</description>
+    </item>
+    
+  </channel>
+</rss>
