@@ -6,7 +6,44 @@
     <description>Recent content in Hello!👋 I am Devashree on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification and Regression using AutoKeras 🤖️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</link>
+      <pubDate>Fri, 13 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</guid>
+      <description>AutoML assist in automating all time consuming tasks in machine learning projects. Tasks like setting up the model, data preprocessing, pipeline creation and more can be automated with minimal amount of code. There are several AutoML tools available which aim to speed up the ML processes. In this article, I share a tutorial on classification and regression task using an AutoML tool &amp;lsquo;AutoKeras&amp;rsquo;.
+This guide has been published as a part of Blogathon on Analytics Vidhya.</description>
+    </item>
+    
+    <item>
+      <title>Get to Know Apache Flume from Scratch!🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-23/</link>
+      <pubDate>Thu, 12 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-23/</guid>
+      <description>Introduction Apache Flume is a part of the Hadoop ecosystem,designed to handle log and event data. It is an excellent data ingestion tool for a high volume of event-based data, especially unstructured data, into Hadoop. Apache Flume is an excellent data ingestion tool fit for aggregating, storing, and analyzing the data with Hadoop. In this beginner-friendly article, I share the basics of Apache Flume including its need and architecture, some important features, types of data flow, the pros and cons of Apache Flume, when to choose Apache Flume and a few real-world applications.</description>
+    </item>
+    
+    <item>
+      <title>5 Python Libraries for Time-Series Analysis ⏰🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-22/</link>
+      <pubDate>Tue, 03 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-22/</guid>
+      <description>Time-Series analysis is an intergral part of Predictive Analytics. This involves analyzing past data to understand the impacting factors as well as forecast the future events. Earlier there were challenges in analyzing such sequential data due to the complexity involved but now with the advancements in Machine learning, different tools are available to process big data faster. These open-source tools help to quickly uncover patterns and deviations from the normal readings using different Time-Series analysis techniques.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Data Visualization Using Bqplot 📈📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-21/</link>
+      <pubDate>Thu, 28 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-21/</guid>
+      <description>Data visualization is an essential aspect in Data Analytics. Several open-source Python libraries for Exploratory data analysis (EDA) allow us to uncover the hidden trends and patterns in a dataset for better business decision-making. In this context, adding interactivity to plots helps data science professionals to understand datasets better. Although D3.js is a well-known tool for building interactive data visualizations; but it is challenging to use due to the requirement of familiarity with JavaScript.</description>
+    </item>
+    
     <item>
       <title>A Comprehensive Guide to Sharding in Data Engineering for Beginners 🖥️</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-20/</link>
