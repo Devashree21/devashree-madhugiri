@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/interactive/</link>
+    <description>Recent content in Interactive on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Data Visualization Using Bqplot 📈📊</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-21/</link>
+      <pubDate>Thu, 28 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-21/</guid>
+      <description>Data visualization is an essential aspect in Data Analytics. Several open-source Python libraries for Exploratory data analysis (EDA) allow us to uncover the hidden trends and patterns in a dataset for better business decision-making. In this context, adding interactivity to plots helps data science professionals to understand datasets better. Although D3.js is a well-known tool for building interactive data visualizations; but it is challenging to use due to the requirement of familiarity with JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

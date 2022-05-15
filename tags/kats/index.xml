@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kats on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/kats/</link>
+    <description>Recent content in Kats on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/kats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Python Libraries for Time-Series Analysis ⏰🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-22/</link>
+      <pubDate>Tue, 03 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-22/</guid>
+      <description>Time-Series analysis is an intergral part of Predictive Analytics. This involves analyzing past data to understand the impacting factors as well as forecast the future events. Earlier there were challenges in analyzing such sequential data due to the complexity involved but now with the advancements in Machine learning, different tools are available to process big data faster. These open-source tools help to quickly uncover patterns and deviations from the normal readings using different Time-Series analysis techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

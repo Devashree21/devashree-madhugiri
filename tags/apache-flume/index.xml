@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache Flume on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/apache-flume/</link>
+    <description>Recent content in Apache Flume on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/apache-flume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get to Know Apache Flume from Scratch!🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-23/</link>
+      <pubDate>Thu, 12 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-23/</guid>
+      <description>Introduction Apache Flume is a part of the Hadoop ecosystem,designed to handle log and event data. It is an excellent data ingestion tool for a high volume of event-based data, especially unstructured data, into Hadoop. Apache Flume is an excellent data ingestion tool fit for aggregating, storing, and analyzing the data with Hadoop. In this beginner-friendly article, I share the basics of Apache Flume including its need and architecture, some important features, types of data flow, the pros and cons of Apache Flume, when to choose Apache Flume and a few real-world applications.</description>
+    </item>
+    
+  </channel>
+</rss>
