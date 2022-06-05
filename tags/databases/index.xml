@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/databases/</link>
+    <description>Recent content in Databases on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with NoSQL Database Called HBase 💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-25/</link>
+      <pubDate>Tue, 17 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-25/</guid>
+      <description>Although Apache Hadoop is popular tool for handling big data but for real-time analytics, we require HBase. HBase is an open-source non-relational, scalable, distributed database written in Java. It is a part of the Hadoop ecosystem and runs on top of HDFS. Applications that require random read-write operations for big data tend to use HBase. This tool provides a set of powerful inbuilt APIs for pulling or pushing data. Further,we can integrate HBase with Apache Hadoop’s MapReduce for tasks such as indexing, analytics, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

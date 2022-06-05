@@ -6,7 +6,46 @@
     <description>Recent content in Deep Learning on Devashree Madhugiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Food Image Classifier using Fastai 🤖️🍩🍰🍮💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-26/</link>
+      <pubDate>Fri, 03 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-26/</guid>
+      <description>Food images seem to trend on social media platforms. Yummy food images speak a lot about the food choices and combinations in different cultures. The searches for food images are quite common on google images or Instagram. This makes us wonder, how does a search engine know if the image is a cake or a donut? The answer is image tags. These tags are image annotations which could either be manually added or using an AI tool like a trained image classifier.</description>
+    </item>
+    
+    <item>
+      <title>Classification and Regression using AutoKeras 🤖️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</link>
+      <pubDate>Fri, 13 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-24/</guid>
+      <description>AutoML assist in automating all time consuming tasks in machine learning projects. Tasks like setting up the model, data preprocessing, pipeline creation and more can be automated with minimal amount of code. There are several AutoML tools available which aim to speed up the ML processes. In this article, I share a tutorial on classification and regression task using an AutoML tool &amp;lsquo;AutoKeras&amp;rsquo;.
+This guide has been published as a part of Blogathon on Analytics Vidhya.</description>
+    </item>
+    
+    <item>
+      <title>Image Augmentation Using 3 Python Libraries✨🖥️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</link>
+      <pubDate>Mon, 04 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-19/</guid>
+      <description>Image Augmentation helps to create additional data from the existing dataset. CNNs can be trained better with additional data for image classification tasks. There are several open-source Python packages for image data augmentation. In this article, I explore some commonly used image augmentation techniques using 3 Python libraries - Imgaug, Albumentations and Solt.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Let’s Understand Data Augmentation Using AugLy!🖼️💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-18/</link>
+      <pubDate>Tue, 22 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-18/</guid>
+      <description>Data Augmentation allows to extend the existing actual data. Deep Learning models can benefit from this process. Image, Audio, Video and Text formats can be augmented using open-source Python libraries. In this article, I share different image augmentation techniques using AugLy, an augmentation library from Facebook.
+This article has been published as a part of Blogathon on Analytics Vidhya. Read the full article here.</description>
+    </item>
+    
     <item>
       <title>Visualizing Deep Learning Models with Visualkeras 🖥️</title>
       <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-17/</link>
