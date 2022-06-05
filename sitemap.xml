@@ -7,12 +7,77 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/post/</loc>
-    <lastmod>2022-05-13T11:25:05-04:00</lastmod>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/projects/</loc>
     <lastmod>2021-09-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/post/chapter-26/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/fastai/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/image-classifier/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/python/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/pytorch/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/</loc>
+    <lastmod>2022-06-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/</loc>
+    <lastmod>2022-05-17T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/databases/</loc>
+    <lastmod>2022-05-17T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/post/chapter-25/</loc>
+    <lastmod>2022-05-17T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/hbase/</loc>
+    <lastmod>2022-05-17T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://devashree21.github.io/devashree-madhugiri/tags/nosql/</loc>
+    <lastmod>2022-05-17T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -31,22 +96,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/tags/deep-learning/</loc>
-    <lastmod>2022-05-13T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/</loc>
-    <lastmod>2022-05-13T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/tags/keras/</loc>
-    <lastmod>2022-05-13T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/tags/</loc>
     <lastmod>2022-05-13T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -57,11 +107,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/tags/apache-flume/</loc>
-    <lastmod>2022-05-12T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/tags/data-engineering/</loc>
     <lastmod>2022-05-12T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -102,11 +147,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/tags/kats/</loc>
-    <lastmod>2022-05-03T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/tags/python/</loc>
     <lastmod>2022-05-03T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -177,11 +217,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://devashree21.github.io/devashree-madhugiri/tags/neural-networks/</loc>
-    <lastmod>2022-04-04T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://devashree21.github.io/devashree-madhugiri/tags/nosql/</loc>
     <lastmod>2022-04-04T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
