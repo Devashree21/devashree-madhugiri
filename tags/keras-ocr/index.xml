@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keras-OCR on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/keras-ocr/</link>
+    <description>Recent content in Keras-OCR on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/keras-ocr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extract Text from Images Quickly Using Keras-OCR Pipeline 🤖️🗒️📷💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-33/</link>
+      <pubDate>Thu, 01 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-33/</guid>
+      <description>Vast amount of digital information is available to businesses these days. Handling data in different formats such as .csv,.txt,.pdf, etc. manually is tedious, time-consuming, and error-prone. Also, as these files cannot be directly edited, it is required to have a tool that can read the content from the image and extract it for further processing. Such tools are based on OCR or Optical Character Recognition. In this article, I share a step-by-step approach to build a model for text extraction from an image using Keras-OCR library.</description>
+    </item>
+    
+  </channel>
+</rss>

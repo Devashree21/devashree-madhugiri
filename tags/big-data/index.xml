@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/big-data/</link>
+    <description>Recent content in Big Data on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 11:27:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Spark Vs. Hadoop MapReduce – Top 7 Differences</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-28/</link>
+      <pubDate>Tue, 14 Jun 2022 11:27:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-28/</guid>
+      <description>The pace of accumulation of Big Data due to smart devices and the increased use of internet technologies calls for efficient data analysis. Although many different technologies are available to easily process big data, two of the most popular tools are Hadoop MapReduce and Apache Spark. In this article, let’s take a deeper look MapReduce and Spark, and compare them to decide which is best in specific circumstances.
+This article has been published as a part of Blogathon on Analytics Vidhya.</description>
+    </item>
+    
+  </channel>
+</rss>

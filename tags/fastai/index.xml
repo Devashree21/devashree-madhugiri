@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fastai on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/fastai/</link>
+    <description>Recent content in Fastai on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jun 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/fastai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Food Image Classifier using Fastai 🤖️🍩🍰🍮💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-26/</link>
+      <pubDate>Fri, 03 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-26/</guid>
+      <description>Food images seem to trend on social media platforms. Yummy food images speak a lot about the food choices and combinations in different cultures. The searches for food images are quite common on google images or Instagram. This makes us wonder, how does a search engine know if the image is a cake or a donut? The answer is image tags. These tags are image annotations which could either be manually added or using an AI tool like a trained image classifier.</description>
+    </item>
+    
+  </channel>
+</rss>

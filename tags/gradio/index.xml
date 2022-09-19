@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradio on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/gradio/</link>
+    <description>Recent content in Gradio on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/gradio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying a Keras Flower Classification Model with Gradio 🤖️🖼️🌼💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-27/</link>
+      <pubDate>Tue, 14 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-27/</guid>
+      <description>A deep learning image classification model can be built using pre-trained modelslike VGG16, VGG19, ResNet, etc., for extracting the features as a part of transfer learning to classify different objects with minimal code. There are variety of attractive flowers in nature with different shapes and enchanting colors. A Computer vision application i.e. a web app can predict the flower species. Such deep learning apps can prove immensely beneficial in agriculture and horticulture domains.</description>
+    </item>
+    
+  </channel>
+</rss>

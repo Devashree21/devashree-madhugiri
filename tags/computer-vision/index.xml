@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Deep Learning Image Classifier with Keras using R 🤖️💻📷🖼️</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-30/</link>
+      <pubDate>Tue, 05 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-30/</guid>
+      <description>Image classification is the process of labeling images based on specific characteristics or features that they contain. The algorithm recognizes these qualities and utilizes them to distinguish between images and assign labels to them. CNNs are used in deep learning image classification models for image recognition, image classification, object detection, and other similar tasks. In this article, I share a step-by-step approach to build a Keras deep learning image classifier using R.</description>
+    </item>
+    
+  </channel>
+</rss>

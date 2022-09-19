@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rbokeh on Devashree Madhugiri</title>
+    <link>https://devashree21.github.io/devashree-madhugiri/tags/rbokeh/</link>
+    <description>Recent content in rbokeh on Devashree Madhugiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://devashree21.github.io/devashree-madhugiri/tags/rbokeh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rbokeh: How To Create Interactive Plots In R 🤖️📊📈💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-32/</link>
+      <pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-32/</guid>
+      <description>Data visualization allows data science professionals to derive meaningful insights from data. Several software packages are available to visualize data and build meaningful dashboards. While building visualizations in Python, there are libraries like Matplotlib, Seaborn, Altair, etc., and ggplot2, lattice when using R. In this article, I share a step by step approach to build interactive plots in R using the rbokeh library.
+This article has been published on the &amp;lsquo;Towards Data Science&amp;rsquo; blog.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Data Visualization using rbokeh 🤖️📊📈💻</title>
+      <link>https://devashree21.github.io/devashree-madhugiri/post/chapter-31/</link>
+      <pubDate>Wed, 27 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://devashree21.github.io/devashree-madhugiri/post/chapter-31/</guid>
+      <description>Data visualization allows to uncover the hidden insights in a given dataset. With meaningful and pleasant plots, one can easily communicate the findings of an exploratory data analysis. Various charts such as bar charts, line charts, scatter plots, etc are used to display the insights. Python and R provide many open-source libraries like Altair, ggplot, Bokeh, Holoviews, etc. for data visualization. In this article, I share how to build interactive visualizations in R using the rbokeh library.</description>
+    </item>
+    
+  </channel>
+</rss>
